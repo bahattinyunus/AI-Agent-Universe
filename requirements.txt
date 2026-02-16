@@ -1,0 +1,34 @@
+# AI Agent Frameworks
+langchain
+langgraph
+crewai
+autogen
+phidata
+
+# LLM Providers
+openai
+anthropic
+google-generativeai
+
+# Tools & APIs
+tavily-python
+serper
+duckduckgo-search
+
+# Vector Databases
+chromadb
+pinecone-client
+weaviate-client
+
+# Web & API
+fastapi
+uvicorn
+streamlit
+chainlit
+
+# Utilities
+python-dotenv
+pydantic
+requests
+pandas
+numpy
