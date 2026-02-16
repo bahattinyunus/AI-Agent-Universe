@@ -107,7 +107,16 @@ Bu proje açık kaynaklıdır ve katkılara açıktır. Yeni bir ajan fikriniz m
 
 ---
 
+## 👨‍💻 Architect & Maintainer
+
 <div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i> - Alan Kay</p>
-  <p>Developed with ❤️ by [Adınız/Kullanıcı Adınız]</p>
+
+**Bahattin Yunus Çetin**  
+*IT Architect*
+
+[![GitHub](https://img.shields.io/badge/GitHub-bahattinyunus-181717?style=for-the-badge&logo=github)](https://github.com/bahattinyunus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bahattinyunus-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bahattinyunus/)
+
+<p><i>"Designing scalable, autonomous, and cognitive systems for the next era of computing."</i></p>
+
 </div>
